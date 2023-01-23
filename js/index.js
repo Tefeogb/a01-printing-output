@@ -31,6 +31,6 @@ let email ="tefeogbekene@gmail.com";
 
 let sentence;
 
-sentence = 'My name is' + ' ' + first_name + ' ' + last_name + '.' + 'You can contact me at' + ' ' + email + ' ';
+output = 'My name is' + ' ' + first_name + ' ' + last_name + ' ' + '.' + 'You can contact me at' + ' ' + email + ' ';
 
-console.log(sentence);
+alert(output);
